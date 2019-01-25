@@ -1,6 +1,6 @@
 ---
 layout: post
-category : nil
+category : tech
 tags : []
 ---
 
